@@ -15,4 +15,7 @@ int main() { //agregasi
     varIbu->tambahAnak (varAnak1);
     varIbu->tambahAnak (varAnak2);
     varibu2->tambahAnak (varAnak3);
+
+    varIbu->cetakAnak();
+    varibu2->cetakAnak();
 }
